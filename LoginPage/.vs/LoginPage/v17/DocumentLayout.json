@@ -1,0 +1,695 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\adminpages\\adminlogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\adminpages\\adminlogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\adminpages\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\adminpages\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\shared\\_adminlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\shared\\_adminlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\adminpages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\adminpages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\adminpages\\adminhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\adminpages\\adminhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\shared\\registermodelclass\\registermodelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\shared\\registermodelclass\\registermodelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\data\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:data\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\product.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\product.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\signupmodel\\signupmodelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\signupmodel\\signupmodelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\edit_page.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\edit_page.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\migrations\\20241029091914_pr1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:migrations\\20241029091914_pr1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\migrations\\20241029091443_pr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:migrations\\20241029091443_pr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\migrations\\20241029090102_prod.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:migrations\\20241029090102_prod.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\edit_page.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\edit_page.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\response.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\response.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\migrations\\20241029090102_prod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:migrations\\20241029090102_prod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\adminpages\\adminhome.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\adminpages\\adminhome.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\data\\entity\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:data\\entity\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\loginpage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:loginpage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\signup.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\signup.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\migrations\\20241024110453_customerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:migrations\\20241024110453_customerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\migrations\\20241024103705_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:migrations\\20241024103705_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\migrations\\20241028104331_alan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:migrations\\20241028104331_alan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|c:\\users\\user\\source\\repos\\loginpageproject\\loginpage\\migrations\\20241030061622_asds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B7F4B8-0F46-423D-9621-C60A6BD3F670}|LoginPage.csproj|solutionrelative:migrations\\20241030061622_asds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 362,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_AdminLayout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Shared\\_AdminLayout.cshtml.css",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_AdminLayout.cshtml.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Shared\\_AdminLayout.cshtml.css",
+              "RelativeToolTip": "Pages\\Shared\\_AdminLayout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-04T07:09:42.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T06:28:51.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCEAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T05:22:17.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Signup.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Signup.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Signup.cshtml",
+              "RelativeToolTip": "Pages\\Signup.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T05:10:49.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\AdminPages\\AdminLogin.cshtml",
+              "RelativeDocumentMoniker": "Pages\\AdminPages\\AdminLogin.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\AdminPages\\AdminLogin.cshtml",
+              "RelativeToolTip": "Pages\\AdminPages\\AdminLogin.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T06:45:29.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\AdminPages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\AdminPages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\AdminPages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\AdminPages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T05:34:28.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminLogin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\AdminPages\\AdminLogin.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\AdminPages\\AdminLogin.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\AdminPages\\AdminLogin.cshtml.cs",
+              "RelativeToolTip": "Pages\\AdminPages\\AdminLogin.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:48:23.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "signupModelClass.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\SignupModel\\signupModelClass.cs",
+              "RelativeDocumentMoniker": "Pages\\SignupModel\\signupModelClass.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\SignupModel\\signupModelClass.cs",
+              "RelativeToolTip": "Pages\\SignupModel\\signupModelClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:20:26.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Data\\Entity\\Customer.cs",
+              "RelativeDocumentMoniker": "Data\\Entity\\Customer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Data\\Entity\\Customer.cs",
+              "RelativeToolTip": "Data\\Entity\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:00:07.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminHome.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\AdminPages\\AdminHome.cshtml",
+              "RelativeDocumentMoniker": "Pages\\AdminPages\\AdminHome.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\AdminPages\\AdminHome.cshtml",
+              "RelativeToolTip": "Pages\\AdminPages\\AdminHome.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T06:52:03.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T04:51:19.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Product.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Product.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Product.cshtml.cs",
+              "RelativeToolTip": "Pages\\Product.cshtml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:26:23.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Register.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Register.cshtml",
+              "RelativeToolTip": "Pages\\Register.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T04:54:06.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T04:51:48.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterModelClass.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Shared\\RegisterModelClass\\RegisterModelClass.cs",
+              "RelativeDocumentMoniker": "Pages\\Shared\\RegisterModelClass\\RegisterModelClass.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Shared\\RegisterModelClass\\RegisterModelClass.cs",
+              "RelativeToolTip": "Pages\\Shared\\RegisterModelClass\\RegisterModelClass.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:00:08.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAswEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T04:54:38.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Data\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Data\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAWwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:19:53.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA0wBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:12:45.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241029090102_prod.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Migrations\\20241029090102_prod.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241029090102_prod.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Migrations\\20241029090102_prod.Designer.cs",
+              "RelativeToolTip": "Migrations\\20241029090102_prod.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:03:45.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T10:20:44.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T08:52:26.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241029091914_pr1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Migrations\\20241029091914_pr1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241029091914_pr1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Migrations\\20241029091914_pr1.cs",
+              "RelativeToolTip": "Migrations\\20241029091914_pr1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:19:14.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241029091443_pr.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Migrations\\20241029091443_pr.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241029091443_pr.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Migrations\\20241029091443_pr.cs",
+              "RelativeToolTip": "Migrations\\20241029091443_pr.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:14:43.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20241030061622_asds.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Migrations\\20241030061622_asds.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241030061622_asds.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Migrations\\20241030061622_asds.cs",
+              "RelativeToolTip": "Migrations\\20241030061622_asds.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:16:22.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit_page.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Edit_page.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Edit_page.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Edit_page.cshtml",
+              "RelativeToolTip": "Pages\\Edit_page.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T11:08:44.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit_page.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Edit_page.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Edit_page.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Edit_page.cshtml.cs",
+              "RelativeToolTip": "Pages\\Edit_page.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:37:00.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T04:37:33.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T10:40:02.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T10:39:52.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T10:39:50.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Response.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Response.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Response.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Response.cshtml.cs",
+              "RelativeToolTip": "Pages\\Response.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T05:54:05.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241029090102_prod.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Migrations\\20241029090102_prod.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241029090102_prod.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Migrations\\20241029090102_prod.cs",
+              "RelativeToolTip": "Migrations\\20241029090102_prod.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:01:02.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:42:50.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminHome.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\AdminPages\\AdminHome.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\AdminPages\\AdminHome.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\AdminPages\\AdminHome.cshtml.cs",
+              "RelativeToolTip": "Pages\\AdminPages\\AdminHome.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA4wBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:56:07.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20241028104331_Alan.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Migrations\\20241028104331_Alan.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241028104331_Alan.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Migrations\\20241028104331_Alan.cs",
+              "RelativeToolTip": "Migrations\\20241028104331_Alan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:43:31.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Signup.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Signup.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Signup.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Signup.cshtml.cs",
+              "RelativeToolTip": "Pages\\Signup.cshtml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA2wCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:13:46.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20241024103705_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Migrations\\20241024103705_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241024103705_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Migrations\\20241024103705_InitialMigration.cs",
+              "RelativeToolTip": "Migrations\\20241024103705_InitialMigration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:37:05.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20241024110453_CustomerDb.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Migrations\\20241024110453_CustomerDb.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241024110453_CustomerDb.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Migrations\\20241024110453_CustomerDb.cs",
+              "RelativeToolTip": "Migrations\\20241024110453_CustomerDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:04:53.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Data\\Entity\\Users.cs",
+              "RelativeDocumentMoniker": "Data\\Entity\\Users.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Data\\Entity\\Users.cs",
+              "RelativeToolTip": "Data\\Entity\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:08:40.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginPage.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\LoginPage.csproj",
+              "RelativeDocumentMoniker": "LoginPage.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\LoginPage.csproj",
+              "RelativeToolTip": "LoginPage.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T09:05:50.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LoginPageProject\\LoginPage\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T04:45:56.164Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
