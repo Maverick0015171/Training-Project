@@ -283,3 +283,5 @@ C:\Users\user\source\repos\LoginPageProject\LoginPage\obj\Debug\net8.0\refint\Lo
 C:\Users\user\source\repos\LoginPageProject\LoginPage\obj\Debug\net8.0\LoginPage.pdb
 C:\Users\user\source\repos\LoginPageProject\LoginPage\obj\Debug\net8.0\LoginPage.genruntimeconfig.cache
 C:\Users\user\source\repos\LoginPageProject\LoginPage\obj\Debug\net8.0\ref\LoginPage.dll
+C:\Users\user\source\repos\LoginPageProject\LoginPage\obj\Debug\net8.0\LoginPage.sourcelink.json
+C:\Users\user\source\repos\LoginPageProject\LoginPage\obj\Debug\net8.0\scopedcss\Pages\Shared\_AdminLayout.cshtml.rz.scp.css
